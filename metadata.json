@@ -1,0 +1,6 @@
+{
+  "name": "Secure Login & Java OOP Showcase",
+  "description": "A high-fidelity secure login simulation with a 3-attempt lockout, live Twilio WhatsApp security alerts, and an interactive, real-time Java OOP structure visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
